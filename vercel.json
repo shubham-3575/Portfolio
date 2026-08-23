@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/magnificent-frame-678025.framer.app/index.html"
+    }
+  ]
+}
